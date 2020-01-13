@@ -1,0 +1,15 @@
+{
+  "header": {
+    "dashboard": "Panel"
+  },
+  "dashboard": {
+    "hotels": {
+      "title": "Oteller",
+      "summary": "Ozet",
+      "topHotels": "Oteller",
+      "topChains": "Zincirler",
+      "topCities": "Sehirler",
+      "totalSpend": "Toplam Tahmini Harcama"
+    }
+  }
+}
